@@ -1,0 +1,38 @@
+.flex-container{
+  width: 60%;
+  height: auto;  
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+.flex-box{
+ width: 200px;
+ height: 250px;
+ 
+ text-align: center;
+ line-height: 200px;
+ 
+
+ margin: 10px;
+
+
+}
+
+
+.our{
+    text-align: center;
+    padding-top: 50px;
+}
+.dd2{
+    padding-bottom: 50px;
+}
+.kit{
+    color: black;
+}
+@media (max-width: 520px) {
+  .flex-container{
+    width: 100px;
+  }
+}

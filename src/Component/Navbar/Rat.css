@@ -1,0 +1,52 @@
+.reduce{
+    width: 150px;
+    height: 200px;
+    
+    text-align: center;
+    line-height: 200px;
+    border-radius: 20px;
+   
+    margin: 10px;
+   
+   
+   }
+   .reduce1{
+       width: 160px;
+    height: 220px;
+    border-radius: 20px;
+    border-bottom:8px solid black;
+    border-top: 4px solid black;
+   
+   }
+   .ts{
+    font-size: 40px;
+    padding-bottom: 30px;
+    
+   }
+   .filter{
+    text-align:initial;
+    align-items: flex-start;
+    margin-left: 0px;
+    padding-left: 50px;
+    font-size: 15px;
+   }
+   .ava{
+    font-size: 15px;
+   }
+   .sep{
+    padding-left: 10px;
+   }
+   .anch{
+    font-size: 17px;
+    
+  }
+  .anch1{
+    font-size :17px;
+  padding-left: 15px;
+  
+  }
+  .anch2{
+    font-size :17px;
+  padding-left: 15px;
+  }
+  

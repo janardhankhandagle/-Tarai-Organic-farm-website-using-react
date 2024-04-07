@@ -1,0 +1,16 @@
+.now{
+    height: 45px;
+    width: 120px;
+    color: black;
+    font-weight: 500;
+    font-size: 15px;
+    background-color: aliceblue;
+    border-radius: 30px;
+}
+@media (max-width: 768px) {
+    .flex-box{
+        width: 100%;
+    }
+    
+    }
+  

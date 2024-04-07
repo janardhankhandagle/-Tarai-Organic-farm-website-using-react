@@ -1,0 +1,35 @@
+
+
+body{
+
+    background-color: rgb(242, 239, 221,1);
+}
+
+.farms{
+    
+    width: 20%;
+   border-radius:  10px ;
+   border-bottom: 8px solid black;
+   border-top: 3px solid black;
+   
+}
+.er{
+    font-size: 40px;
+    color: rgb(4, 52, 4);
+}
+.far img {
+    border-radius: 10px solid black;
+
+}
+.fon{
+    font-size: 13px;
+    color: rgb(4, 52, 4);
+}
+@media (max-width: 768px) {
+    .product-container {
+      flex-direction: column;
+    }
+    .farms{
+        width: 100%;
+    }
+}

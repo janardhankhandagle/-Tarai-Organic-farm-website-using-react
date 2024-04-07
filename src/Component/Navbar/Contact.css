@@ -1,0 +1,85 @@
+.formm{
+  padding-top: 50px;
+}
+
+.er{
+  padding-top: 20px;
+  font-size: 50px;
+  text-align: flex-start;
+}
+.fab{
+  
+  width: 25%;
+  border-radius:  10px ;
+  border-bottom: 8px solid black;
+  border-top: 3px solid black;
+  background-color: rgb(242, 239, 221,1);
+}
+#name{
+  height: 40px; 
+  width: 280px;
+  
+  justify-content: space-around;
+  border-radius: 10px;
+  font-size: 15px;
+  background-color: rgb(242, 239, 221,1);
+
+}
+#email {
+  height: 40px; 
+ 
+
+  
+  width: 280px;
+  background-color: rgb(242, 239, 221,1);
+  border-radius: 10px;
+  font-size: 15px;
+
+}
+.parag{
+  font-size: 15px;
+  padding-top: 50px;
+}
+.send
+{
+  width: 100px;
+  height: 40px;
+  background-color: rgb(8, 75, 8);
+  color: white;
+  font-size: 15px;
+  font-weight: 300px;
+  border-radius: 20px;
+}
+#phone{
+  height: 40px;
+  width: 560px;
+  border-radius: 11px;
+  margin-top: 10px;
+  background-color: rgb(242, 239, 221,1);
+  font-size: 15px;
+  border-bottom: 5px solid black;
+}
+#area{
+  border-radius: 10px; 
+  margin-top: 10px;
+  font-size: 15px;
+  background-color: rgb(242, 239, 221,1);
+  border-bottom: 5px solid black;
+}
+@media (max-width: 768px) {
+  #email {
+    width: 100%;
+  }
+  #name{
+    width: 100%;
+  } 
+  #phone{
+    width: 100%;
+  }
+  #area{
+    width: 100%;
+  }
+  .fab{
+    width: 100%;
+  }
+}
